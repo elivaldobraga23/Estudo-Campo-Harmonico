@@ -7,4 +7,5 @@ As perguntas são geradas aleatoriamente e o objetivo é testar e aprimorar o co
 
     - Geração Aleatória de Perguntas: As perguntas são criadas aleatoriamente utilizando o módulo random do Python.
     - Interação do Usuário: O usuário escolhe a nota correta para cada pergunta apresentada.
+    - Escolha de Notas: Durante a execução, o usuário pode optar por mudar de nota se desejar.
     - Feedback Imediato: Ao final do questionário, o programa exibe quantas perguntas foram respondidas corretamente e quantas foram respondidas incorretamente.
